@@ -1,4 +1,4 @@
-package ru.blinov;
+package ru.blinov.hw3;
 
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeAll;
